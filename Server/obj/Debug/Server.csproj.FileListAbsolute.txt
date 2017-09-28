@@ -1,0 +1,78 @@
+C:\Users\Ehsan\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Ehsan\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.MainForm.resources
+C:\Users\Ehsan\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Forms.InputBox.resources
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Forms.RunProgram.resources
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Forms.RemoteDesktop.resources
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Forms.FileManager.resources
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Forms.AttributeForm.resources
+C:\Users\Ehsan\Desktop\Server\Server\obj\Debug\Server.Forms.EditFile.resources
+C:\Users\Ehsan\Desktop\hemmati\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Ehsan\Desktop\hemmati\Server\Server\obj\Debug\Server.exe
+C:\Users\Ehsan\Desktop\hemmati\Server\Server\obj\Debug\Server.pdb
+E:\Project\hemmati\Server\Server\bin\Debug\Server.exe.config
+E:\Project\hemmati\Server\Server\obj\Debug\Server.exe
+E:\Project\hemmati\Server\Server\obj\Debug\Server.pdb
+E:\Project\hemmati\Server\Server\bin\Debug\Server.exe
+E:\Project\hemmati\Server\Server\bin\Debug\Server.pdb
+E:\Project\hemmati\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Forms.AttributeForm.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Forms.EditFile.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Forms.FileManager.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Forms.InputBox.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Forms.RemoteDesktop.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Forms.RunProgram.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.MainForm.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Project\hemmati\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ehsan\Desktop\Client-Server\Server\bin\Debug\Server.exe.config
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.exe
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.pdb
+C:\Users\Ehsan\Desktop\Client-Server\Server\bin\Debug\Server.exe
+C:\Users\Ehsan\Desktop\Client-Server\Server\bin\Debug\Server.pdb
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Forms.AttributeForm.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Forms.EditFile.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Forms.FileManager.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Forms.InputBox.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Forms.RemoteDesktop.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Forms.RunProgram.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.MainForm.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Ehsan\Desktop\Client-Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\bin\Debug\Server.exe.config
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.exe
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.pdb
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\bin\Debug\Server.exe
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\bin\Debug\Server.pdb
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.AttributeForm.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.EditFile.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.FileManager.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.InputBox.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.RemoteDesktop.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.RunProgram.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.MainForm.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Properties.Resources.resources
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\bin\Debug\Server.exe.config
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.exe
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.pdb
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\bin\Debug\Server.exe
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\bin\Debug\Server.pdb
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.AttributeForm.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.EditFile.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.FileManager.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.InputBox.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.RemoteDesktop.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Forms.RunProgram.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.MainForm.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Server\obj\Debug\Server.csproj.GenerateResource.Cache

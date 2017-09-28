@@ -1,0 +1,34 @@
+C:\Users\Ehsan\Desktop\Server\Client\bin\Debug\Client.exe
+C:\Users\Ehsan\Desktop\Server\Client\bin\Debug\Client.pdb
+C:\Users\Ehsan\Desktop\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Ehsan\Desktop\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Ehsan\Desktop\Server\Client\obj\Debug\Client.exe
+C:\Users\Ehsan\Desktop\Server\Client\obj\Debug\Client.pdb
+C:\Users\Ehsan\Desktop\Server\Client\obj\Debug\Client.MainForm.resources
+E:\Project\hemmati\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\hemmati\Server\Client\obj\Debug\Client.MainForm.resources
+E:\Project\hemmati\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\hemmati\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Project\hemmati\Server\Client\obj\Debug\Client.exe
+E:\Project\hemmati\Server\Client\obj\Debug\Client.pdb
+E:\Project\hemmati\Server\Client\bin\Debug\Client.exe
+E:\Project\hemmati\Server\Client\bin\Debug\Client.pdb
+C:\Users\Ehsan\Desktop\Client-Server\Client\bin\Debug\Client.exe
+C:\Users\Ehsan\Desktop\Client-Server\Client\bin\Debug\Client.pdb
+C:\Users\Ehsan\Desktop\Client-Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Client-Server\Client\obj\Debug\Client.MainForm.resources
+C:\Users\Ehsan\Desktop\Client-Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Ehsan\Desktop\Client-Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Ehsan\Desktop\Client-Server\Client\obj\Debug\Client.exe
+C:\Users\Ehsan\Desktop\Client-Server\Client\obj\Debug\Client.pdb
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.exe
+E:\DL\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.pdb
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\bin\Debug\Client.exe
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\bin\Debug\Client.pdb
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.MainForm.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.exe
+D:\Barnamenevisi\Project Windows\Client-Server-[ehsanavr.com]\Client-Server-[ehsanavr.com]\Client\obj\Debug\Client.pdb
